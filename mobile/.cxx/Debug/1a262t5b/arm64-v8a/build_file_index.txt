@@ -1,0 +1,1 @@
+/home/seongjin/AndroidStudioProjects/myapp/mobile/src/main/cpp/CMakeLists.txt
