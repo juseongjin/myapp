@@ -1,14 +1,4 @@
 #Android build
-/automotive/
-/shared/
-/build/
-/gradle/
-
-/mobile/build/
-/mobile/src/test/
-
-/mobile/src/androidTest/java/com/example/myapp/
-
 /mobile/src/main/cpp/third_party/flatbuffers/
 /mobile/src/main/cpp/third_party/opencv/
 /mobile/src/main/cpp/third_party/tensorflow/
