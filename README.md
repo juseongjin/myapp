@@ -3,6 +3,7 @@
 - **Model**: `yolo_v4_tiny.tflite`
 - **Input**: 약 300 프레임 이미지 (실제 영상에서 추출)
 
+***You must get tensorflow lite code***
 
 Model = "yolo_v4_tiny.tflite
 Input = "About 300 frame images extracted from real-world video"
