@@ -12,6 +12,7 @@
 /mobile/src/main/cpp/third_party/flatbuffers/
 /mobile/src/main/cpp/third_party/opencv/
 /mobile/src/main/cpp/third_party/tensorflow/
+/mobile/src/main/cpp/third_party/tensorflow.tar.gz
 /mobile/src/main/cpp/third_party/yaml-cpp/
 
 /mobile/src/main/jniLibs/arm64-v8a/
